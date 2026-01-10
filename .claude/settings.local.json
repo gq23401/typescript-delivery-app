@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "Bash(npm run build:*)",
+      "Bash(cd:*)",
+      "Bash(npm install:*)",
+      "Bash(del utilityFunctions.js)",
+      "Bash(npx tsc:*)",
+      "Bash(npm start)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)"
+    ]
+  }
+}
